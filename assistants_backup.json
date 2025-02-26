@@ -1,0 +1,26 @@
+[
+    {
+        "id": "asst_juNFl2NjJ51w7Tf37HytWjqy",
+        "created_at": 1737002192,
+        "description": null,
+        "instructions": "",
+        "metadata": {},
+        "model": "gpt-4o-mini",
+        "name": "Assistant211",
+        "object": "assistant",
+        "tools": [
+            {
+                "type": "code_interpreter"
+            }
+        ],
+        "response_format": "auto",
+        "temperature": 1.0,
+        "tool_resources": {
+            "code_interpreter": {
+                "file_ids": []
+            },
+            "file_search": null
+        },
+        "top_p": 1.0
+    }
+]
