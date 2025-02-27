@@ -23,6 +23,9 @@ MODEL_DEPLOYMENT_NAME="your_model_deployment_name"
 ```bash
 python migrate_agents.py
 ```
+example output:
+![Screenshot 2025-02-27 130903](https://github.com/user-attachments/assets/8d225c62-86d9-45c5-8462-24f7bb4a943a)
+
 #### Verify
 Login to your AI Agent Service account and verify that the agents have been migrated successfully.
 
@@ -31,5 +34,8 @@ Login to your AI Agent Service account and verify that the agents have been migr
 ```bash
 python migrate_threads.py
 ```
+example output:
+![Screenshot 2025-02-27 130659](https://github.com/user-attachments/assets/a9d16c77-8565-4ca8-8a81-943377aac4f1)
+
 #### Verify
 Login to your AI Agent Service account and verify that the threads have been migrated successfully.
