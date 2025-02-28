@@ -1,6 +1,9 @@
 # agent-migrator
 Migration tool for moving OpenAI and Azure OpenAI Assistants -> AI Agent Service
 
+* Please follow the AI Foundry setup steps outlined here: [AI Foundry Quickstart](https://learn.microsoft.com/en-us/azure/ai-services/agents/quickstart?pivots=programming-language-python-azure) 
+and ensure your project is in a region supported by AI Agent Service [Supported Regions](https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/model-region-support)
+
 ## Setup Instructions
 
 ### 1. Install Requirements
